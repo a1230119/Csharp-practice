@@ -1,0 +1,6 @@
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180315\Practice4.1 - Tower of Hanoi\Practice4.1 - Tower of Hanoi\bin\Debug\Practice4.1 - Tower of Hanoi.exe.config
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180315\Practice4.1 - Tower of Hanoi\Practice4.1 - Tower of Hanoi\bin\Debug\Practice4.1 - Tower of Hanoi.exe
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180315\Practice4.1 - Tower of Hanoi\Practice4.1 - Tower of Hanoi\bin\Debug\Practice4.1 - Tower of Hanoi.pdb
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180315\Practice4.1 - Tower of Hanoi\Practice4.1 - Tower of Hanoi\obj\Debug\Practice4.1 - Tower of Hanoi.csprojResolveAssemblyReference.cache
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180315\Practice4.1 - Tower of Hanoi\Practice4.1 - Tower of Hanoi\obj\Debug\Practice4.1 - Tower of Hanoi.exe
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180315\Practice4.1 - Tower of Hanoi\Practice4.1 - Tower of Hanoi\obj\Debug\Practice4.1 - Tower of Hanoi.pdb
