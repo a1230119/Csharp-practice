@@ -1,0 +1,9 @@
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180322\Practice 7.2 - Tabcontrol\Practice 7.2 - Tabcontrol\bin\Debug\Practice 7.2 - Tabcontrol.exe.config
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180322\Practice 7.2 - Tabcontrol\Practice 7.2 - Tabcontrol\bin\Debug\Practice 7.2 - Tabcontrol.exe
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180322\Practice 7.2 - Tabcontrol\Practice 7.2 - Tabcontrol\bin\Debug\Practice 7.2 - Tabcontrol.pdb
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180322\Practice 7.2 - Tabcontrol\Practice 7.2 - Tabcontrol\obj\Debug\Practice 7.2 - Tabcontrol.csprojResolveAssemblyReference.cache
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180322\Practice 7.2 - Tabcontrol\Practice 7.2 - Tabcontrol\obj\Debug\Practice_7._2___Tabcontrol.Form1.resources
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180322\Practice 7.2 - Tabcontrol\Practice 7.2 - Tabcontrol\obj\Debug\Practice_7._2___Tabcontrol.Properties.Resources.resources
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180322\Practice 7.2 - Tabcontrol\Practice 7.2 - Tabcontrol\obj\Debug\Practice 7.2 - Tabcontrol.csproj.GenerateResource.Cache
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180322\Practice 7.2 - Tabcontrol\Practice 7.2 - Tabcontrol\obj\Debug\Practice 7.2 - Tabcontrol.exe
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180322\Practice 7.2 - Tabcontrol\Practice 7.2 - Tabcontrol\obj\Debug\Practice 7.2 - Tabcontrol.pdb

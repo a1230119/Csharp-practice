@@ -1,0 +1,9 @@
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180322\Practice 6.4 - Change US dollar\Practice 6.4 - Change US dollar\bin\Debug\Practice 6.4 - Change US dollar.exe.config
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180322\Practice 6.4 - Change US dollar\Practice 6.4 - Change US dollar\bin\Debug\Practice 6.4 - Change US dollar.exe
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180322\Practice 6.4 - Change US dollar\Practice 6.4 - Change US dollar\bin\Debug\Practice 6.4 - Change US dollar.pdb
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180322\Practice 6.4 - Change US dollar\Practice 6.4 - Change US dollar\obj\Debug\Practice 6.4 - Change US dollar.csprojResolveAssemblyReference.cache
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180322\Practice 6.4 - Change US dollar\Practice 6.4 - Change US dollar\obj\Debug\Practice_6._4___Change_US_dollar.Form1.resources
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180322\Practice 6.4 - Change US dollar\Practice 6.4 - Change US dollar\obj\Debug\Practice_6._4___Change_US_dollar.Properties.Resources.resources
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180322\Practice 6.4 - Change US dollar\Practice 6.4 - Change US dollar\obj\Debug\Practice 6.4 - Change US dollar.csproj.GenerateResource.Cache
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180322\Practice 6.4 - Change US dollar\Practice 6.4 - Change US dollar\obj\Debug\Practice 6.4 - Change US dollar.exe
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180322\Practice 6.4 - Change US dollar\Practice 6.4 - Change US dollar\obj\Debug\Practice 6.4 - Change US dollar.pdb

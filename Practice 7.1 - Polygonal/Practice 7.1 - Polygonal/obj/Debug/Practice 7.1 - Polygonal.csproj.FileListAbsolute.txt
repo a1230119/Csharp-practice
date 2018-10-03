@@ -1,0 +1,9 @@
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180322\Practice 7.1 - Polygonal\Practice 7.1 - Polygonal\bin\Debug\Practice 7.1 - Polygonal.exe.config
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180322\Practice 7.1 - Polygonal\Practice 7.1 - Polygonal\bin\Debug\Practice 7.1 - Polygonal.exe
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180322\Practice 7.1 - Polygonal\Practice 7.1 - Polygonal\bin\Debug\Practice 7.1 - Polygonal.pdb
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180322\Practice 7.1 - Polygonal\Practice 7.1 - Polygonal\obj\Debug\Practice 7.1 - Polygonal.csprojResolveAssemblyReference.cache
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180322\Practice 7.1 - Polygonal\Practice 7.1 - Polygonal\obj\Debug\Practice_7._1___Polygonal.Form1.resources
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180322\Practice 7.1 - Polygonal\Practice 7.1 - Polygonal\obj\Debug\Practice_7._1___Polygonal.Properties.Resources.resources
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180322\Practice 7.1 - Polygonal\Practice 7.1 - Polygonal\obj\Debug\Practice 7.1 - Polygonal.csproj.GenerateResource.Cache
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180322\Practice 7.1 - Polygonal\Practice 7.1 - Polygonal\obj\Debug\Practice 7.1 - Polygonal.exe
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180322\Practice 7.1 - Polygonal\Practice 7.1 - Polygonal\obj\Debug\Practice 7.1 - Polygonal.pdb
