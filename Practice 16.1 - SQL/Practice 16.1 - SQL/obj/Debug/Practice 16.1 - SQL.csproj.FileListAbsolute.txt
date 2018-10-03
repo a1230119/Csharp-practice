@@ -1,0 +1,10 @@
+D:\Course\Window Programming\20180607\Practice 16.1 - SQL\Practice 16.1 - SQL\bin\Debug\Practice 16.1 - SQL.exe.config
+D:\Course\Window Programming\20180607\Practice 16.1 - SQL\Practice 16.1 - SQL\bin\Debug\Practice 16.1 - SQL.exe
+D:\Course\Window Programming\20180607\Practice 16.1 - SQL\Practice 16.1 - SQL\bin\Debug\Practice 16.1 - SQL.pdb
+D:\Course\Window Programming\20180607\Practice 16.1 - SQL\Practice 16.1 - SQL\obj\Debug\Practice_16._1___SQL.Form1.resources
+D:\Course\Window Programming\20180607\Practice 16.1 - SQL\Practice 16.1 - SQL\obj\Debug\Practice_16._1___SQL.Properties.Resources.resources
+D:\Course\Window Programming\20180607\Practice 16.1 - SQL\Practice 16.1 - SQL\obj\Debug\Practice 16.1 - SQL.csproj.GenerateResource.Cache
+D:\Course\Window Programming\20180607\Practice 16.1 - SQL\Practice 16.1 - SQL\obj\Debug\Practice 16.1 - SQL.exe
+D:\Course\Window Programming\20180607\Practice 16.1 - SQL\Practice 16.1 - SQL\obj\Debug\Practice 16.1 - SQL.pdb
+D:\Course\Window Programming\20180607\Practice 16.1 - SQL\Practice 16.1 - SQL\bin\Debug\Hospital.mdf
+D:\Course\Window Programming\20180607\Practice 16.1 - SQL\Practice 16.1 - SQL\bin\Debug\Hospital_log.ldf

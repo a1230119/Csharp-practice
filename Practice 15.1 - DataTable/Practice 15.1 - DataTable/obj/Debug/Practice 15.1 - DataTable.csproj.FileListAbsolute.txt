@@ -1,0 +1,11 @@
+D:\Course\Window Programming\20180607\Practice 15.1 - DataTable\Practice 15.1 - DataTable\bin\Debug\Practice 15.1 - DataTable.exe.config
+D:\Course\Window Programming\20180607\Practice 15.1 - DataTable\Practice 15.1 - DataTable\bin\Debug\Practice 15.1 - DataTable.exe
+D:\Course\Window Programming\20180607\Practice 15.1 - DataTable\Practice 15.1 - DataTable\bin\Debug\Practice 15.1 - DataTable.pdb
+D:\Course\Window Programming\20180607\Practice 15.1 - DataTable\Practice 15.1 - DataTable\obj\Debug\Practice 15.1 - DataTable.csprojResolveAssemblyReference.cache
+D:\Course\Window Programming\20180607\Practice 15.1 - DataTable\Practice 15.1 - DataTable\obj\Debug\Practice_15._1___DataTable.Form1.resources
+D:\Course\Window Programming\20180607\Practice 15.1 - DataTable\Practice 15.1 - DataTable\obj\Debug\Practice_15._1___DataTable.Properties.Resources.resources
+D:\Course\Window Programming\20180607\Practice 15.1 - DataTable\Practice 15.1 - DataTable\obj\Debug\Practice 15.1 - DataTable.csproj.GenerateResource.Cache
+D:\Course\Window Programming\20180607\Practice 15.1 - DataTable\Practice 15.1 - DataTable\obj\Debug\Practice 15.1 - DataTable.exe
+D:\Course\Window Programming\20180607\Practice 15.1 - DataTable\Practice 15.1 - DataTable\obj\Debug\Practice 15.1 - DataTable.pdb
+D:\Course\Window Programming\20180607\Practice 15.1 - DataTable\Practice 15.1 - DataTable\bin\Debug\Hospital.mdf
+D:\Course\Window Programming\20180607\Practice 15.1 - DataTable\Practice 15.1 - DataTable\bin\Debug\Hospital_log.ldf
