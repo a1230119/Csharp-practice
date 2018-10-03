@@ -1,0 +1,9 @@
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180329\Practice12.1 - KeyboardEvent\Practice12.1 - KeyboardEvent\bin\Debug\Practice12.1 - KeyboardEvent.exe.config
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180329\Practice12.1 - KeyboardEvent\Practice12.1 - KeyboardEvent\bin\Debug\Practice12.1 - KeyboardEvent.exe
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180329\Practice12.1 - KeyboardEvent\Practice12.1 - KeyboardEvent\bin\Debug\Practice12.1 - KeyboardEvent.pdb
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180329\Practice12.1 - KeyboardEvent\Practice12.1 - KeyboardEvent\obj\Debug\Practice12.1 - KeyboardEvent.csprojResolveAssemblyReference.cache
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180329\Practice12.1 - KeyboardEvent\Practice12.1 - KeyboardEvent\obj\Debug\Practice12._1___KeyboardEvent.Form1.resources
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180329\Practice12.1 - KeyboardEvent\Practice12.1 - KeyboardEvent\obj\Debug\Practice12._1___KeyboardEvent.Properties.Resources.resources
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180329\Practice12.1 - KeyboardEvent\Practice12.1 - KeyboardEvent\obj\Debug\Practice12.1 - KeyboardEvent.csproj.GenerateResource.Cache
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180329\Practice12.1 - KeyboardEvent\Practice12.1 - KeyboardEvent\obj\Debug\Practice12.1 - KeyboardEvent.exe
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180329\Practice12.1 - KeyboardEvent\Practice12.1 - KeyboardEvent\obj\Debug\Practice12.1 - KeyboardEvent.pdb

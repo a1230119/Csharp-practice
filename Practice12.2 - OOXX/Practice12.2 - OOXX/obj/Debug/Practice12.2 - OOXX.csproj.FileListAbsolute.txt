@@ -1,0 +1,18 @@
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180329\Practice12.2 - OOXX\Practice12.2 - OOXX\bin\Debug\Practice12.2 - OOXX.exe.config
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180329\Practice12.2 - OOXX\Practice12.2 - OOXX\bin\Debug\Practice12.2 - OOXX.exe
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180329\Practice12.2 - OOXX\Practice12.2 - OOXX\bin\Debug\Practice12.2 - OOXX.pdb
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180329\Practice12.2 - OOXX\Practice12.2 - OOXX\obj\Debug\Practice12.2 - OOXX.csprojResolveAssemblyReference.cache
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180329\Practice12.2 - OOXX\Practice12.2 - OOXX\obj\Debug\Practice12._2___OOXX.Form1.resources
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180329\Practice12.2 - OOXX\Practice12.2 - OOXX\obj\Debug\Practice12._2___OOXX.Properties.Resources.resources
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180329\Practice12.2 - OOXX\Practice12.2 - OOXX\obj\Debug\Practice12.2 - OOXX.csproj.GenerateResource.Cache
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180329\Practice12.2 - OOXX\Practice12.2 - OOXX\obj\Debug\Practice12.2 - OOXX.exe
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180329\Practice12.2 - OOXX\Practice12.2 - OOXX\obj\Debug\Practice12.2 - OOXX.pdb
+F:\Course\Window Programming\20180329\Practice12.2 - OOXX\Practice12.2 - OOXX\bin\Debug\Practice12.2 - OOXX.exe.config
+F:\Course\Window Programming\20180329\Practice12.2 - OOXX\Practice12.2 - OOXX\obj\Debug\Practice12.2 - OOXX.exe
+F:\Course\Window Programming\20180329\Practice12.2 - OOXX\Practice12.2 - OOXX\obj\Debug\Practice12.2 - OOXX.pdb
+F:\Course\Window Programming\20180329\Practice12.2 - OOXX\Practice12.2 - OOXX\bin\Debug\Practice12.2 - OOXX.exe
+F:\Course\Window Programming\20180329\Practice12.2 - OOXX\Practice12.2 - OOXX\bin\Debug\Practice12.2 - OOXX.pdb
+F:\Course\Window Programming\20180329\Practice12.2 - OOXX\Practice12.2 - OOXX\obj\Debug\Practice12.2 - OOXX.csprojResolveAssemblyReference.cache
+F:\Course\Window Programming\20180329\Practice12.2 - OOXX\Practice12.2 - OOXX\obj\Debug\Practice12._2___OOXX.Form1.resources
+F:\Course\Window Programming\20180329\Practice12.2 - OOXX\Practice12.2 - OOXX\obj\Debug\Practice12._2___OOXX.Properties.Resources.resources
+F:\Course\Window Programming\20180329\Practice12.2 - OOXX\Practice12.2 - OOXX\obj\Debug\Practice12.2 - OOXX.csproj.GenerateResource.Cache
