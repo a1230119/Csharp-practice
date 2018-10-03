@@ -1,0 +1,11 @@
+D:\Course\Window Programming\20180531\Practice 14.2 - DataRelation\Practice 14.2 - DataRelation\bin\Debug\Practice 14.2 - DataRelation.exe.config
+D:\Course\Window Programming\20180531\Practice 14.2 - DataRelation\Practice 14.2 - DataRelation\bin\Debug\School.mdf
+D:\Course\Window Programming\20180531\Practice 14.2 - DataRelation\Practice 14.2 - DataRelation\bin\Debug\School_log.ldf
+D:\Course\Window Programming\20180531\Practice 14.2 - DataRelation\Practice 14.2 - DataRelation\bin\Debug\Practice 14.2 - DataRelation.exe
+D:\Course\Window Programming\20180531\Practice 14.2 - DataRelation\Practice 14.2 - DataRelation\bin\Debug\Practice 14.2 - DataRelation.pdb
+D:\Course\Window Programming\20180531\Practice 14.2 - DataRelation\Practice 14.2 - DataRelation\obj\Debug\Practice 14.2 - DataRelation.csprojResolveAssemblyReference.cache
+D:\Course\Window Programming\20180531\Practice 14.2 - DataRelation\Practice 14.2 - DataRelation\obj\Debug\Practice_14._2___DataRelation.Form1.resources
+D:\Course\Window Programming\20180531\Practice 14.2 - DataRelation\Practice 14.2 - DataRelation\obj\Debug\Practice_14._2___DataRelation.Properties.Resources.resources
+D:\Course\Window Programming\20180531\Practice 14.2 - DataRelation\Practice 14.2 - DataRelation\obj\Debug\Practice 14.2 - DataRelation.csproj.GenerateResource.Cache
+D:\Course\Window Programming\20180531\Practice 14.2 - DataRelation\Practice 14.2 - DataRelation\obj\Debug\Practice 14.2 - DataRelation.exe
+D:\Course\Window Programming\20180531\Practice 14.2 - DataRelation\Practice 14.2 - DataRelation\obj\Debug\Practice 14.2 - DataRelation.pdb
