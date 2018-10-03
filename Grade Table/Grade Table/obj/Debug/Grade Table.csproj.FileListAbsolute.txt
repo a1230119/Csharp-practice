@@ -1,0 +1,6 @@
+D:\Course\CSIE\Window Programming\hw1\Grade Table\Grade Table\bin\Debug\Grade Table.exe.config
+D:\Course\CSIE\Window Programming\hw1\Grade Table\Grade Table\bin\Debug\Grade Table.exe
+D:\Course\CSIE\Window Programming\hw1\Grade Table\Grade Table\bin\Debug\Grade Table.pdb
+D:\Course\CSIE\Window Programming\hw1\Grade Table\Grade Table\obj\Debug\Grade Table.csprojResolveAssemblyReference.cache
+D:\Course\CSIE\Window Programming\hw1\Grade Table\Grade Table\obj\Debug\Grade Table.exe
+D:\Course\CSIE\Window Programming\hw1\Grade Table\Grade Table\obj\Debug\Grade Table.pdb
