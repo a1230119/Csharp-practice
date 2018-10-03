@@ -1,0 +1,9 @@
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180412\Practice9.1 - Countdown-timer program\Practice9.1 - Countdown-timer program\bin\Debug\Practice9.1 - Countdown-timer program.exe.config
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180412\Practice9.1 - Countdown-timer program\Practice9.1 - Countdown-timer program\bin\Debug\Practice9.1 - Countdown-timer program.exe
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180412\Practice9.1 - Countdown-timer program\Practice9.1 - Countdown-timer program\bin\Debug\Practice9.1 - Countdown-timer program.pdb
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180412\Practice9.1 - Countdown-timer program\Practice9.1 - Countdown-timer program\obj\Debug\Practice9.1 - Countdown-timer program.csprojResolveAssemblyReference.cache
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180412\Practice9.1 - Countdown-timer program\Practice9.1 - Countdown-timer program\obj\Debug\Practice9._1___Countdown_timer_program.Form1.resources
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180412\Practice9.1 - Countdown-timer program\Practice9.1 - Countdown-timer program\obj\Debug\Practice9._1___Countdown_timer_program.Properties.Resources.resources
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180412\Practice9.1 - Countdown-timer program\Practice9.1 - Countdown-timer program\obj\Debug\Practice9.1 - Countdown-timer program.csproj.GenerateResource.Cache
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180412\Practice9.1 - Countdown-timer program\Practice9.1 - Countdown-timer program\obj\Debug\Practice9.1 - Countdown-timer program.exe
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180412\Practice9.1 - Countdown-timer program\Practice9.1 - Countdown-timer program\obj\Debug\Practice9.1 - Countdown-timer program.pdb

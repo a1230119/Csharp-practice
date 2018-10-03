@@ -1,0 +1,9 @@
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180412\Practice13.1 - write\Practice13.1 - write\bin\Debug\Practice13.1 - write.exe.config
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180412\Practice13.1 - write\Practice13.1 - write\bin\Debug\Practice13.1 - write.exe
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180412\Practice13.1 - write\Practice13.1 - write\bin\Debug\Practice13.1 - write.pdb
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180412\Practice13.1 - write\Practice13.1 - write\obj\Debug\Practice13.1 - write.csprojResolveAssemblyReference.cache
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180412\Practice13.1 - write\Practice13.1 - write\obj\Debug\Practice13._1___write.Form1.resources
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180412\Practice13.1 - write\Practice13.1 - write\obj\Debug\Practice13._1___write.Properties.Resources.resources
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180412\Practice13.1 - write\Practice13.1 - write\obj\Debug\Practice13.1 - write.csproj.GenerateResource.Cache
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180412\Practice13.1 - write\Practice13.1 - write\obj\Debug\Practice13.1 - write.exe
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180412\Practice13.1 - write\Practice13.1 - write\obj\Debug\Practice13.1 - write.pdb

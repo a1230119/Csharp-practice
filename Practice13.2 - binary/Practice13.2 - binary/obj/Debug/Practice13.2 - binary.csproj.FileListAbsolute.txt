@@ -1,0 +1,9 @@
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180412\Practice13.2 - binary\Practice13.2 - binary\bin\Debug\Practice13.2 - binary.exe.config
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180412\Practice13.2 - binary\Practice13.2 - binary\bin\Debug\Practice13.2 - binary.exe
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180412\Practice13.2 - binary\Practice13.2 - binary\bin\Debug\Practice13.2 - binary.pdb
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180412\Practice13.2 - binary\Practice13.2 - binary\obj\Debug\Practice13.2 - binary.csprojResolveAssemblyReference.cache
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180412\Practice13.2 - binary\Practice13.2 - binary\obj\Debug\Practice13._2___binary.Form1.resources
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180412\Practice13.2 - binary\Practice13.2 - binary\obj\Debug\Practice13._2___binary.Properties.Resources.resources
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180412\Practice13.2 - binary\Practice13.2 - binary\obj\Debug\Practice13.2 - binary.csproj.GenerateResource.Cache
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180412\Practice13.2 - binary\Practice13.2 - binary\obj\Debug\Practice13.2 - binary.exe
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180412\Practice13.2 - binary\Practice13.2 - binary\obj\Debug\Practice13.2 - binary.pdb
