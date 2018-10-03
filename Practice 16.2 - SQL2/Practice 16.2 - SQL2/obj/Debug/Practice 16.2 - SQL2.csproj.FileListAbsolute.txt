@@ -1,0 +1,11 @@
+D:\Course\Window Programming\20180607\Practice 16.2 - SQL2\Practice 16.2 - SQL2\bin\Debug\Practice 16.2 - SQL2.exe.config
+D:\Course\Window Programming\20180607\Practice 16.2 - SQL2\Practice 16.2 - SQL2\bin\Debug\Hospital.mdf
+D:\Course\Window Programming\20180607\Practice 16.2 - SQL2\Practice 16.2 - SQL2\bin\Debug\Hospital_log.ldf
+D:\Course\Window Programming\20180607\Practice 16.2 - SQL2\Practice 16.2 - SQL2\bin\Debug\Practice 16.2 - SQL2.exe
+D:\Course\Window Programming\20180607\Practice 16.2 - SQL2\Practice 16.2 - SQL2\bin\Debug\Practice 16.2 - SQL2.pdb
+D:\Course\Window Programming\20180607\Practice 16.2 - SQL2\Practice 16.2 - SQL2\obj\Debug\Practice 16.2 - SQL2.csprojResolveAssemblyReference.cache
+D:\Course\Window Programming\20180607\Practice 16.2 - SQL2\Practice 16.2 - SQL2\obj\Debug\Practice_16._2___SQL2.Form1.resources
+D:\Course\Window Programming\20180607\Practice 16.2 - SQL2\Practice 16.2 - SQL2\obj\Debug\Practice_16._2___SQL2.Properties.Resources.resources
+D:\Course\Window Programming\20180607\Practice 16.2 - SQL2\Practice 16.2 - SQL2\obj\Debug\Practice 16.2 - SQL2.csproj.GenerateResource.Cache
+D:\Course\Window Programming\20180607\Practice 16.2 - SQL2\Practice 16.2 - SQL2\obj\Debug\Practice 16.2 - SQL2.exe
+D:\Course\Window Programming\20180607\Practice 16.2 - SQL2\Practice 16.2 - SQL2\obj\Debug\Practice 16.2 - SQL2.pdb
