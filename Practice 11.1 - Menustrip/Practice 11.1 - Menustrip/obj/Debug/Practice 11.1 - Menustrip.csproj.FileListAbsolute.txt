@@ -1,0 +1,9 @@
+D:\Window Programming\20180419\Practice 11.1 - Menustrip\Practice 11.1 - Menustrip\bin\Debug\Practice 11.1 - Menustrip.exe.config
+D:\Window Programming\20180419\Practice 11.1 - Menustrip\Practice 11.1 - Menustrip\bin\Debug\Practice 11.1 - Menustrip.exe
+D:\Window Programming\20180419\Practice 11.1 - Menustrip\Practice 11.1 - Menustrip\bin\Debug\Practice 11.1 - Menustrip.pdb
+D:\Window Programming\20180419\Practice 11.1 - Menustrip\Practice 11.1 - Menustrip\obj\Debug\Practice 11.1 - Menustrip.csprojResolveAssemblyReference.cache
+D:\Window Programming\20180419\Practice 11.1 - Menustrip\Practice 11.1 - Menustrip\obj\Debug\Practice_11._1___Menustrip.Form1.resources
+D:\Window Programming\20180419\Practice 11.1 - Menustrip\Practice 11.1 - Menustrip\obj\Debug\Practice_11._1___Menustrip.Properties.Resources.resources
+D:\Window Programming\20180419\Practice 11.1 - Menustrip\Practice 11.1 - Menustrip\obj\Debug\Practice 11.1 - Menustrip.csproj.GenerateResource.Cache
+D:\Window Programming\20180419\Practice 11.1 - Menustrip\Practice 11.1 - Menustrip\obj\Debug\Practice 11.1 - Menustrip.exe
+D:\Window Programming\20180419\Practice 11.1 - Menustrip\Practice 11.1 - Menustrip\obj\Debug\Practice 11.1 - Menustrip.pdb

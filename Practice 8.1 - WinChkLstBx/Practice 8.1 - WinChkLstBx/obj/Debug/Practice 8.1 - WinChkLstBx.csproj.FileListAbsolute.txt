@@ -1,0 +1,18 @@
+c:\users\user\documents\visual studio 2015\Projects\Practice 8.1 - WinChkLstBx\Practice 8.1 - WinChkLstBx\bin\Debug\Practice 8.1 - WinChkLstBx.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Practice 8.1 - WinChkLstBx\Practice 8.1 - WinChkLstBx\bin\Debug\Practice 8.1 - WinChkLstBx.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Practice 8.1 - WinChkLstBx\Practice 8.1 - WinChkLstBx\bin\Debug\Practice 8.1 - WinChkLstBx.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Practice 8.1 - WinChkLstBx\Practice 8.1 - WinChkLstBx\obj\Debug\Practice 8.1 - WinChkLstBx.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Practice 8.1 - WinChkLstBx\Practice 8.1 - WinChkLstBx\obj\Debug\Practice_8._1___WinChkLstBx.Form1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Practice 8.1 - WinChkLstBx\Practice 8.1 - WinChkLstBx\obj\Debug\Practice_8._1___WinChkLstBx.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Practice 8.1 - WinChkLstBx\Practice 8.1 - WinChkLstBx\obj\Debug\Practice 8.1 - WinChkLstBx.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Practice 8.1 - WinChkLstBx\Practice 8.1 - WinChkLstBx\obj\Debug\Practice 8.1 - WinChkLstBx.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Practice 8.1 - WinChkLstBx\Practice 8.1 - WinChkLstBx\obj\Debug\Practice 8.1 - WinChkLstBx.pdb
+D:\Window Programming\20180419\Practice 8.1 - WinChkLstBx\Practice 8.1 - WinChkLstBx\bin\Debug\Practice 8.1 - WinChkLstBx.exe.config
+D:\Window Programming\20180419\Practice 8.1 - WinChkLstBx\Practice 8.1 - WinChkLstBx\obj\Debug\Practice 8.1 - WinChkLstBx.exe
+D:\Window Programming\20180419\Practice 8.1 - WinChkLstBx\Practice 8.1 - WinChkLstBx\obj\Debug\Practice 8.1 - WinChkLstBx.pdb
+D:\Window Programming\20180419\Practice 8.1 - WinChkLstBx\Practice 8.1 - WinChkLstBx\bin\Debug\Practice 8.1 - WinChkLstBx.exe
+D:\Window Programming\20180419\Practice 8.1 - WinChkLstBx\Practice 8.1 - WinChkLstBx\bin\Debug\Practice 8.1 - WinChkLstBx.pdb
+D:\Window Programming\20180419\Practice 8.1 - WinChkLstBx\Practice 8.1 - WinChkLstBx\obj\Debug\Practice 8.1 - WinChkLstBx.csprojResolveAssemblyReference.cache
+D:\Window Programming\20180419\Practice 8.1 - WinChkLstBx\Practice 8.1 - WinChkLstBx\obj\Debug\Practice_8._1___WinChkLstBx.Form1.resources
+D:\Window Programming\20180419\Practice 8.1 - WinChkLstBx\Practice 8.1 - WinChkLstBx\obj\Debug\Practice_8._1___WinChkLstBx.Properties.Resources.resources
+D:\Window Programming\20180419\Practice 8.1 - WinChkLstBx\Practice 8.1 - WinChkLstBx\obj\Debug\Practice 8.1 - WinChkLstBx.csproj.GenerateResource.Cache
