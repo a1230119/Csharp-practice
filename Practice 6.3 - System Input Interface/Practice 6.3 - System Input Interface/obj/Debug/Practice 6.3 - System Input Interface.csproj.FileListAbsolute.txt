@@ -1,0 +1,10 @@
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180315\Practice 6.3 - System Input Interface\Practice 6.3 - System Input Interface\bin\Debug\Practice 6.3 - System Input Interface.exe.config
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180315\Practice 6.3 - System Input Interface\Practice 6.3 - System Input Interface\bin\Debug\Practice 6.3 - System Input Interface.exe
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180315\Practice 6.3 - System Input Interface\Practice 6.3 - System Input Interface\bin\Debug\Practice 6.3 - System Input Interface.pdb
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180315\Practice 6.3 - System Input Interface\Practice 6.3 - System Input Interface\obj\Debug\Practice 6.3 - System Input Interface.csprojResolveAssemblyReference.cache
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180315\Practice 6.3 - System Input Interface\Practice 6.3 - System Input Interface\obj\Debug\Practice_6._3___System_Input_Interface.Form1.resources
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180315\Practice 6.3 - System Input Interface\Practice 6.3 - System Input Interface\obj\Debug\Practice_6._3___System_Input_Interface.Form2.resources
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180315\Practice 6.3 - System Input Interface\Practice 6.3 - System Input Interface\obj\Debug\Practice_6._3___System_Input_Interface.Properties.Resources.resources
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180315\Practice 6.3 - System Input Interface\Practice 6.3 - System Input Interface\obj\Debug\Practice 6.3 - System Input Interface.csproj.GenerateResource.Cache
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180315\Practice 6.3 - System Input Interface\Practice 6.3 - System Input Interface\obj\Debug\Practice 6.3 - System Input Interface.exe
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180315\Practice 6.3 - System Input Interface\Practice 6.3 - System Input Interface\obj\Debug\Practice 6.3 - System Input Interface.pdb

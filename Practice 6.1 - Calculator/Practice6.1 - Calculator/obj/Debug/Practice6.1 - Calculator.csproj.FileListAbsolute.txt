@@ -1,0 +1,8 @@
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180315\Practice6.1 - Calculator\Practice6.1 - Calculator\bin\Debug\Practice6.1 - Calculator.exe.config
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180315\Practice6.1 - Calculator\Practice6.1 - Calculator\bin\Debug\Practice6.1 - Calculator.exe
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180315\Practice6.1 - Calculator\Practice6.1 - Calculator\bin\Debug\Practice6.1 - Calculator.pdb
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180315\Practice6.1 - Calculator\Practice6.1 - Calculator\obj\Debug\Practice6._1___Calculator.Form1.resources
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180315\Practice6.1 - Calculator\Practice6.1 - Calculator\obj\Debug\Practice6._1___Calculator.Properties.Resources.resources
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180315\Practice6.1 - Calculator\Practice6.1 - Calculator\obj\Debug\Practice6.1 - Calculator.csproj.GenerateResource.Cache
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180315\Practice6.1 - Calculator\Practice6.1 - Calculator\obj\Debug\Practice6.1 - Calculator.exe
+D:\Course\CSIE\Window Programming\Visual Studio 2015\20180315\Practice6.1 - Calculator\Practice6.1 - Calculator\obj\Debug\Practice6.1 - Calculator.pdb
