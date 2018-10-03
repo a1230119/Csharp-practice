@@ -1,0 +1,9 @@
+D:\Course\CSIE\Window Programming\hw2\Brick Buster\Brick Buster\bin\Debug\Brick Buster.exe.config
+D:\Course\CSIE\Window Programming\hw2\Brick Buster\Brick Buster\bin\Debug\Brick Buster.exe
+D:\Course\CSIE\Window Programming\hw2\Brick Buster\Brick Buster\bin\Debug\Brick Buster.pdb
+D:\Course\CSIE\Window Programming\hw2\Brick Buster\Brick Buster\obj\Debug\Brick Buster.csprojResolveAssemblyReference.cache
+D:\Course\CSIE\Window Programming\hw2\Brick Buster\Brick Buster\obj\Debug\Brick_Buster.Form1.resources
+D:\Course\CSIE\Window Programming\hw2\Brick Buster\Brick Buster\obj\Debug\Brick_Buster.Properties.Resources.resources
+D:\Course\CSIE\Window Programming\hw2\Brick Buster\Brick Buster\obj\Debug\Brick Buster.csproj.GenerateResource.Cache
+D:\Course\CSIE\Window Programming\hw2\Brick Buster\Brick Buster\obj\Debug\Brick Buster.exe
+D:\Course\CSIE\Window Programming\hw2\Brick Buster\Brick Buster\obj\Debug\Brick Buster.pdb
